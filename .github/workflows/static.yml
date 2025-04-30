@@ -47,6 +47,7 @@ jobs:
           cp 10cases.py dist/ 2>/dev/null || true
           cp nejm_poc_raw_outputs.csv dist/ 2>/dev/null || true
           cp task2data.jsonl dist/ 2>/dev/null || true
+          cp index.html dist/ 2>/dev/null || true
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
