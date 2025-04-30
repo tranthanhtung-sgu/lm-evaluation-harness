@@ -1,0 +1,20 @@
+--- CASE: Case 36-2021: A 22-Year-Old Man with Pain and Erythema of the Left Hand ---
+--- FINAL DIAGNOSIS: Erysipelothrix rhusiopathiae infection ---
+
+--- internistai/base-7b-v0.2 Output (Latency: 21.78s) ---
+1. Erythema nodosum: This condition typically presents with painful, red nodules on the shins, but can also occur in other areas of the body including the hands. The patient's symptoms align with erythema nodosum due to the presence of violaceous bullae on the dorsal aspect of the left hand. Additionally, the spreading erythema and lack of systemic symptoms suggest a localized inflammatory response.
+
+2. Cellulitis: The presence of erythema, warmth, and tenderness in the skin, along with the rapid progression of symptoms, suggests cellulitis. However, the absence of systemic signs such as fever, malaise, or lymphadenopathy makes it less likely. Furthermore, the presence of bullae is not typical for cellulitis.
+
+3. Pyoderma gangrenosum: This is an uncommon disorder characterized by painful ulcers that typically begin as small pustules or papules and then rapidly enlarge and become necrotic. Although the patient's symptoms do not match exactly, pyoderma gangrenosum should be considered in the differential diagnosis due to the presence of violaceous bullae.
+
+It is important to note that additional investigations may be necessary to confirm the diagnosis, such as skin biopsy or imaging studies. The patient's clinical presentation, however, provides strong clues towards erythema nodosum as the most likely diagnosis.
+
+Remember to always consider the patient's history, physical examination findings, and any pertinent lab results when determining the differential diagnoses. These factors help narrow down the possibilities and guide appropriate treatment.
+
+Remember that the goal of a differential diagnosis is to generate a list of potential diseases or conditions that could explain the patient's presenting symptoms, so further investigation and diagnostic tests can be carried out to confirm the final diagnosis. Always prioritize the most likely diagnoses based on the information provided in the clinical scenario. 
+
+I hope this helps! Let me know if you need further clarification on anything.
+
+--- BioMistral/BioMistral-7B Output (Latency: 4.83s) ---
+1. 1): Acute Idiopathic Spondyloarthritis (SpA) is an autoinflammatory disorder that causes inflammation in the ligaments, tendons, joints, eyes, skin, and intestines. It can manifest as a chronic condition or as an acute episode of symptoms. SpA is often accompanied by other symptoms such as fever, malaise, fatigue, and weight loss .

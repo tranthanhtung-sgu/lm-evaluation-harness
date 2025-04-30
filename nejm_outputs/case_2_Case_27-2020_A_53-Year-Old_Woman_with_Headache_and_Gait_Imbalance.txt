@@ -1,0 +1,18 @@
+--- CASE: Case 27-2020: A 53-Year-Old Woman with Headache and Gait Imbalance ---
+--- FINAL DIAGNOSIS: Human immunodeficiency virus type 2 infection and cerebral toxoplasmosis ---
+
+--- internistai/base-7b-v0.2 Output (Latency: 26.09s) ---
+1. Metastatic Carcinoma: This patient's clinical presentation and imaging findings (enhancing intraaxial lesion with necrosis and surrounding edema, enlarged thyroid gland, pulmonary nodules, and lytic osseous lesions) are highly suggestive of metastatic carcinoma. Metastasis can cause symptoms related to the primary tumor, such as headaches, weakness, and gait instability, and may also produce secondary effects due to compression or obstruction. 
+
+2. Primary CNS Lymphoma: Given the presence of a solitary intraaxial brain lesion with surrounding edema, the clinical suspicion should be high for primary central nervous system (CNS) lymphoma. However, this condition is typically seen in patients with known immunocompromising conditions, such as HIV/AIDS, or those who are immunosuppressed due to organ transplantation or chemotherapy. As this patient has a history of HIV infection and has positive results for antibodies to HIV type 1 (HIV-1), it increases the likelihood of a diagnosis of primary CNS lymphoma.
+
+3. Neurocysticercosis: Although the patient does not report any history of travel to areas where neurocysticercosis is common, her symptoms, along with the presence of an enhancing lesion on MRI, suggest this possibility. Neurocysticercosis is a parasitic infection caused by Taenia solium eggs ingested via fecal-oral contamination. The cysts often develop within the brain parenchyma and can cause seizures, headaches, and signs of increased intracranial pressure. 
+
+In conclusion, these three conditions are the most probable causes of the patient's clinical presentation given her symptoms, medical history, and imaging findings. Further investigations would be necessary to confirm the exact diagnosis. 
+
+Remember, always consider the patient's medical history, presenting symptoms, and diagnostic imaging when formulating a differential diagnosis. Always consider the most likely possibilities first based on the available information, but remember to keep an open mind as new information can change the focus. 
+
+Always strive to provide clear and concise reasoning behind your choices. It is important to understand why certain conditions are more likely than others, especially considering the potential consequences of misdi
+
+--- BioMistral/BioMistral-7B Output (Latency: 17.22s) ---
+1. 1. Cerebral metastases of undetermined origin. 2. Secondary central nervous system lymphoma. 3. Primary CNS lymphoma. 4. Neurosyphilis. 5. Progressive multifocal leukoencephalopathy. 6. Tuberculosis meningitis. 7. Human immunodeficiency virus (HIV)-associated cerebral toxoplasmosis. 8. Cryptococcal meningitis. 9. Coccidioidal meningitis. 10. Histoplasmosis of the brain. 11. Talaromycosis (formerly Penicillium marneffei). 12. Listeriosis. 13. Cat scratch disease. 14. Neurosarcoidosis. 15. Cerebral venous thrombosis. 16. Infectious cerebritis. 17. Ischemic stroke. 18. Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL). 19. Other rare monogenic disorders (e.g., Fabry disease, Niemann–Pick disease, etc.). 20. Metabolic disorders (e.g., urea cycle disorder, phenylketonuria, homocystinuria, etc.)

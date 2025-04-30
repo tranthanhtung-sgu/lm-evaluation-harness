@@ -1,0 +1,22 @@
+--- CASE: Case 3-2022: A 14-Year-Old Boy with Fever, Joint Pain, and Abdominal Cramping ---
+--- FINAL DIAGNOSIS: Inflammatory bowel disease (Crohn’s disease) ---
+
+--- internistai/base-7b-v0.2 Output (Latency: 25.71s) ---
+1. Lyme Disease - This is a common tick-borne illness in the United States and can present with various symptoms including fatigue, fever, joint pain, and abdominal symptoms. The patient's history of spending time in wooded areas, along with the presence of a tick bite, makes this diagnosis highly plausible. Additionally, Lyme disease can cause joint pain and inflammation, which aligns with the patient's symptoms. The elevated white-cell count, erythrocyte sedimentation rate, and C-reactive protein levels further support this possibility.
+
+2. 
+Juvenile Idiopathic Arthritis - This is a chronic inflammatory disease that primarily affects children and causes joint pain, swelling, and stiffness. It typically presents between ages 6 months and 16 years. Given the patient's age and the absence of redness, swelling, or stiffness of the joints, this diagnosis should be considered. However, the other symptoms such as fever, fatigue, abdominal cramping, and diarrhea make it less likely.
+
+3. 
+Inflammatory Bowel Disease (IBD) - IBD, specifically Crohn's disease, can present with joint pain, abdominal cramping, and diarrhea. While the patient does have these symptoms, the presence of fever, fatigue, and joint pain without redness, swelling, or stiffness of the joints makes this diagnosis less likely. Additionally, the positive fecal occult blood test could suggest inflammation within the bowels, but it doesn't necessarily point towards IBD.
+
+Overall, Lyme Disease is the most likely diagnosis based on the patient's history, symptoms, and laboratory findings. Further testing, such as serologic tests for Lyme disease, would be necessary to confirm the diagnosis. The other two diagnoses are less likely but still need to be considered due to their similarities with some of the patient's symptoms.
+
+Remember, always consider the patient's medical history, physical exam findings, and other relevant information to arrive at the most accurate differential diagnosis.
+
+Please note that this explanation is based on general knowledge and may not apply to every individual case. Always consult with a healthcare professional for a personalized assessment and management plan.
+
+I hope this helps!
+
+--- BioMistral/BioMistral-7B Output (Latency: 10.69s) ---
+1. 2019 Novel Coronavirus (COVID-19): Considering the ongoing COVID-19 pandemic, this diagnosis should be considered as one of the differentials in patients presenting with fever, joint pains, and diarrhea. This disease has a wide spectrum of manifestations including fever, cough, shortness of breath, diarrhea, and joint pains. It may present with either bilateral or unilateral joint pain. Joint pain may be present alone or accompanied by stiffness and swelling. Joint pain typically resolves within 7–10 days. However, it can be quite debilitating and can last for more than 3 months in some cases. The etiology of joint pain in COVID-19 is not clearly understood, but it is believed to be due to either direct invasion of synovial tissues by SARS-CoV-2 or an immune-mediated mechanism (1–3).

@@ -1,0 +1,14 @@
+--- CASE: Case 3-2021: A 48-Year-Old Man with Transient Vision Loss ---
+--- FINAL DIAGNOSIS: Systemic primary amyloidosis ---
+
+--- internistai/base-7b-v0.2 Output (Latency: 25.92s) ---
+1. Graves' Ophthalmopathy: This is the most likely diagnosis given the patient's history of fatigue, weight loss, bilateral jaw pain, lateral hip soreness, sensation of locking when flexing or extending the right first finger, and the presence of a tender, irregular mass under the left superior orbital rim. Graves' ophthalmopathy is a condition characterized by inflammation and protrusion of the eyeballs due to an immune-mediated reaction involving the muscles and fatty tissues around the eyes. The clinical presentation and findings on examination, including the enlargement of the right medial rectus muscle with stranding of the adjacent extraconal fat, support this diagnosis. Additionally, the patient's laboratory results show elevated levels of alanine aminotransferase, aspartate aminotransferase, and alkaline phosphatase, which can be seen in hyperthyroidism, further supporting Graves' ophthalmopathy as the likely diagnosis.
+
+2. Sarcoidosis: While sarcoidosis is less likely given the patient's symptoms, it is still a possibility based on the presence of an irregular mass under the left superior orbital rim and the abnormal liver findings. Sarcoidosis is a multisystem disorder characterized by noncaseating granulomas that can involve various organs, including the eyes. The patient's enlarged liver and enlarged periportal lymph node could be consistent with hepatic involvement in sarcoidosis. However, the absence of other characteristic features of sarcoidosis, such as skin rash or lupus pernio, makes this diagnosis less likely compared to Graves' ophthalmopathy.
+
+3. Orbital Tumor: While an orbital tumor is a consideration due to the presence of a palpable mass under the left superior orbital rim, the absence of significant visual field deficits, optic nerve abnormalities, or other signs suggestive of an orbital neoplasm make this diagnosis less likely. Additionally, the patient's symptoms and clinical presentation are more consistent with Graves' ophthalmopathy.
+
+Overall, given the patient's history, symptoms, and examination findings, Graves' ophthalmopathy remains the most likely diagnosis.
+
+--- BioMistral/BioMistral-7B Output (Latency: 3.21s) ---
+1. 1.Temporal arteritis with cranial neuropathy.2.Sarcoidosis with cranial neuropathy.3.Granulomatosis with polyangiitis with cranial neuropathy.

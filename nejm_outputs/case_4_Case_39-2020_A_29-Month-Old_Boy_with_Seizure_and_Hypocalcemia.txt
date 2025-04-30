@@ -1,0 +1,23 @@
+--- CASE: Case 39-2020: A 29-Month-Old Boy with Seizure and Hypocalcemia ---
+--- FINAL DIAGNOSIS: Vitamin D deficiency ---
+
+--- internistai/base-7b-v0.2 Output (Latency: 24.93s) ---
+1. Rickets: Rickets is a condition characterized by defective mineralization of bone due to vitamin D deficiency. It can cause skeletal abnormalities such as bowlegs and knock-knees, as well as muscle weakness and delayed growth. The patient's history of refusing routine childhood vaccinations, which often contain vitamin D, combined with his symptoms of hypocalcemia and skeletal deformities suggest rickets as a possible diagnosis.
+
+2.  Hypoparathyroidism: Hypoparathyroidism is a condition characterized by low levels of parathyroid hormone, leading to decreased calcium absorption from the gut and increased renal calcium excretion. This can result in hypocalcemia and associated symptoms like seizures, muscle spasms, and tetany. The patient's history of seizures, hypocalcemia, and family history of varus knee deformity (a common manifestation of hypoparathyroidism) make this diagnosis a strong possibility.
+
+3.  Vitamin D-dependent rickets type 1: This is a rare inherited disorder caused by mutations in the vitamin D receptor gene. It results in impaired intestinal absorption of calcium and phosphorus, leading to severe hypocalcemia, rickets, and skeletal deformities. The patient's symptoms, along with his history of refusing routine childhood vaccinations, which may have contained vitamin D, support this diagnosis as a consideration.
+
+It's important to note that these are just the most likely differential diagnoses based on the information provided in the case presentation. Further testing and clinical evaluation would be necessary to confirm or rule out these possibilities.
+
+Please feel free to ask if you have any questions!
+  
+This is just one potential interpretation of the case and could differ based on different interpretations of the clinical scenario. It's always crucial to consider the entire clinical picture when making a diagnosis. These three diagnoses are the ones that seem most likely given the details provided but without further contextual information, it's hard to say definitively what the correct answer might be. 
+
+If you need clarifications, please let me know!
+
+Regards,
+The AI Clinical Assistant
+
+--- BioMistral/BioMistral-7B Output (Latency: 13.51s) ---
+1. 1. Vitamin D deficiency. Serum vitamin D levels should be checked and corrected if necessary. Patients with vitamin D deficiency may have a wide spectrum of neurological manifestations. However, the majority of patients present with abnormal bone mineralization leading to rickets in children or osteomalacia in adults. Rickets is characterized by painful bony swelling in the growth plate of the bones, resulting in deformities such as bending of the legs (knock-knee) and outward bending of the knees (genua vara). Osteomalacia causes generalized bone pain and muscle weakness. Other rare neurological complications of vitamin D deficiency include hypoparathyroidism, seizures, and tetany. 2. 2. Hypercalciuria. Hypercalciuria can cause nephrolithiasis and nephrocalcinosis, but it rarely leads to low serum calcium levels. 3. 3. Parathyroid adenoma. Primary hyperparathyroidism is rare in children. Low serum calcium levels are usually accompanied by high parathyroid hormone levels.

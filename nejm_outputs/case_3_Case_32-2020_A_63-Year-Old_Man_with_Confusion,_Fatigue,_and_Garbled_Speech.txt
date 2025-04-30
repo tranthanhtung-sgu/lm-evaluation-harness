@@ -1,0 +1,18 @@
+--- CASE: Case 32-2020: A 63-Year-Old Man with Confusion, Fatigue, and Garbled Speech ---
+--- FINAL DIAGNOSIS: Borrelia miyamotoi infection ---
+
+--- internistai/base-7b-v0.2 Output (Latency: 27.82s) ---
+1. Neurosyphilis: This patient's symptoms of altered mental status, headaches, garbled speech, and cranial nerve involvement (limited upwards gaze, hyperreflexia, pectoralis reflexes) suggest central nervous system involvement. Neurosyphilis should be considered in patients with these findings who have risk factors for syphilis. However, the CSF VDRL test is negative, making neurosyphilis less likely.
+
+2. 	Paraneoplastic syndrome: Paraneoplastic syndromes can occur in association with various malignancies and can cause a wide variety of neurologic manifestations. This patient has been treated for a history of primary membranous nephropathy, which is a type of kidney cancer. However, the patient's symptoms do not clearly fit any specific paraneoplastic syndrome. Additionally, his symptoms have not significantly improved with steroid therapy, which would typically be used in the treatment of paraneoplastic syndromes.
+
+3. 	Cryptococcal meningitis: Cryptococcal meningitis is a fungal infection that can cause meningeal inflammation. It often occurs in immunocompromised individuals. However, the patient's blood and CSF cultures were negative for Cryptococcus neoformans, making this diagnosis unlikely.
+
+It is important to note that this patient has been through extensive workup without a definitive diagnosis yet. Further testing may be necessary to identify the underlying cause of his symptoms.
+
+Note: The correct diagnosis is actually Lyme disease, which was missed due to the negative serologies at the time. The patient's symptoms and history are consistent with Lyme disease, including the presence of Borrelia burgdorferi antibodies in the CSF, the positive MRI findings, and the patient's recent travel to areas where Lyme disease is endemic. Therefore, Lyme disease should always be considered in patients with unexplained neurologic symptoms, particularly if they have a history of exposure to ticks in endemic areas.
+
+The clinical case above does not mention the presence of an ocular migraine or any related symptoms, so it would not be relevant to discuss it as part of the differential diagnosis. However, it is worth noting that ocular migraines are a common condition and should be considered when evaluating patients with
+
+--- BioMistral/BioMistral-7B Output (Latency: 11.81s) ---
+1. β-hemolytic Streptococcus meningitis. The patient has all of the classic signs and symptoms of meningitis, including fever, headache, vomiting, confusion, and neck stiffness, as well as the classic findings of meningismus, bradycardia, and positive Kernig’s sign. He also has many ancillary test results suggestive of bacterial meningitis, such as elevated WBC count, CSF pressure of less than 10 cm H2O, and CSF protein level of greater than 250 mg per dL. The low CSF glucose level and normal CSF lactate level are not specific for bacterial meningitis and may have been influenced by the patient’s diabetes. The finding of gram-positive cocci on Gram stain and the negative blood cultures make streptococcal meningitis the most likely infectious cause of the patient’s symptoms.
