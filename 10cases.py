@@ -13,7 +13,7 @@ DATA_PATH = 'task2data.jsonl'
 OUTPUT_CSV_PATH = "nejm_poc_raw_outputs.csv"
 OUTPUT_DIR = "nejm_outputs"
 
-# Prompt Template (same as in report methodology)
+# Prompt Template
 PROMPT_TEMPLATE = """You are an expert clinical assistant AI. Based on the following clinical case presentation, please provide the top 3 most likely differential diagnoses. For each diagnosis, provide a brief justification citing key evidence from the text. Ensure your reasoning is clear and concise.
 
 Clinical Case Presentation:
@@ -22,7 +22,6 @@ Clinical Case Presentation:
 Top 3 Differential Diagnoses with Justification:
 1. """
 
-# Generation Parameters (adjust as needed)
 MAX_NEW_TOKENS = 512 # Max tokens to generate for the answer
 TEMPERATURE = 0.7
 TOP_P = 0.9

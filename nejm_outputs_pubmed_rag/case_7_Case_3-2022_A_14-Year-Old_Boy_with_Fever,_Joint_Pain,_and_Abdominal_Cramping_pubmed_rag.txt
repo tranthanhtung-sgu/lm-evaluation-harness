@@ -1,0 +1,13 @@
+--- CASE: Case 3-2022: A 14-Year-Old Boy with Fever, Joint Pain, and Abdominal Cramping ---
+--- FINAL DIAGNOSIS (Used as Query): Inflammatory bowel disease (Crohn’s disease) ---
+
+--- PubMed RAG internistai/base-7b-v0.2 Output (Latency: 25.96s) ---
+1. Inflammatory Bowel Disease (IBD): Given the patient's persistent diarrhea, abdominal cramping, and elevated lipase levels, IBD is a likely differential diagnosis. IBD often presents with gastrointestinal symptoms, such as diarrhea and abdominal pain. However, it can also manifest systemically, leading to joint pain and fever. Additionally, the patient's medical history of being previously well, recent travel, and lack of exposure to potential infectious agents make IBD a more plausible diagnosis than an infectious cause.
+
+2. 
+Systemic Juvenile Idiopathic Arthritis (sJIA): This condition typically presents in children between the ages of 2 and 16 years old and can cause persistent fever, evanescent rash, and joint pain. sJIA can also present with abdominal pain and diarrhea. However, the presence of elevated lipase levels and the absence of a rash make this diagnosis less likely.
+
+3. 
+Kawasaki Disease: Kawasaki disease is an acute vasculitis that commonly affects young children and is characterized by fever lasting for at least five days, along with four or more of the following symptoms: bilateral nonexudative conjunctival injection, oral mucosal changes (eg, strawberry tongue, cracked lips), changes in the extremities (eg, erythema, edema, desquamation, lymphadenopathy), polymorphous rash, and cervical lymphadenopathy. Although the patient has some overlapping symptoms, the absence of conjunctival injection, rash, and lymphadenopathy makes Kawasaki disease less likely.
+
+It is important to note that without further testing and examination, definitive diagnoses cannot be made based solely on the provided case presentation. These differential diagnoses are suggestions based on the presented information and should be considered alongside additional findings and investigations. Always remember to consider the patient's age, gender, clinical presentation, and risk factors when determining the most appropriate diagnostic workup.

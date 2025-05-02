@@ -1,0 +1,15 @@
+--- CASE: Case 21-2022: A 17-Year-Old Girl with Fever and Cough ---
+--- FINAL DIAGNOSIS (Used as Query): Granulomatosis with polyangiitis ---
+
+--- PubMed RAG internistai/base-7b-v0.2 Output (Latency: 28.55s) ---
+1. 2.
+3.
+
+Reasoning:
+The clinical scenario provided presents a young woman with persistent fever, cough, and signs of hemoptysis. In addition, she has laboratory findings indicative of anemia and renal impairment, and imaging showing bilateral lower lobe ground-glass opacities. This combination of features suggests a systemic vasculitic process.
+
+1. Eosinophilic Granulomatosis with Polyangiitis (EGPA, Churg-Strauss Syndrome): EGPA is characterized by asthma, eosinophilia, and systemic vasculitis involving small vessels. It typically presents with sinusitis, asthma, and peripheral neuropathy. Systemic vasculitis may affect any organ system, including the kidneys (resulting in hematuria and proteinuria), lungs (resulting in hemoptysis), and skin (resulting in purpura or ulcers). Elevated ESR and CRP are often seen, as is renal insufficiency due to glomerulonephritis. Imaging may show infiltrates in the lungs and sinuses. Therefore, given the patient's history of asthma, the presence of hemoptysis, and the imaging findings, EGPA would be one of the first considerations.
+
+2. Microscopic Polyangiitis (MPA): MPA is a systemic necrotizing vasculitis affecting small vessels, and it is similar to Goodpasture syndrome. It can involve the kidneys, lungs, skin, nervous system, gastrointestinal tract, and heart. Symptoms include cough, hemoptysis, renal disease (e.g., hematuria, proteinuria), and constitutional symptoms like malaise and weight loss. Lung findings can be similar to those seen in EGPA, with diffuse or focal infiltrates, consolidation, or nodules on imaging. While MPA can cause ANCA positivity, it does not have a strong association with eosinophilia.
+
+3. Granulomatosis with Polyangiitis (Wegener's Granulomatosis): GPA is a systemic necrotizing vasculitis that affects the upper and lower respiratory tracts and the

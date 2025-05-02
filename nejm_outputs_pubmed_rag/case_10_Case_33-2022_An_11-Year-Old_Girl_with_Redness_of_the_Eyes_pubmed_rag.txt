@@ -1,0 +1,21 @@
+--- CASE: Case 33-2022: An 11-Year-Old Girl with Redness of the Eyes ---
+--- FINAL DIAGNOSIS (Used as Query): Sarcoidosis ---
+
+--- PubMed RAG internistai/base-7b-v0.2 Output (Latency: 23.44s) ---
+1. 1. Systemic Lupus Erythematosus (SLE):
+   - Given the patient's persistent eye redness, keratic precipitates, posterior synechiae, and iris nodules, along with systemic findings like lymphadenopathy, these are characteristic of SLE.
+   - Furthermore, the presence of optic disk swelling and peripheral retinal hemorrhages are consistent with neuroretinitis, a common manifestation of SLE.
+
+2. 2. Juvenile Idiopathic Arthritis (JIA):
+   - JIA can cause ocular inflammation, such as anterior uveitis, leading to symptoms like eye redness, photophobia, and blurred vision.
+   - The presence of systemic symptoms like joint pain and lymphadenopathy further support this possibility.
+
+3. 3. Tubulointerstitial Nephritis and Uveitis Syndrome (TINU):
+   - This syndrome presents with a combination of tubulointerstitial nephritis and bilateral anterior uveitis.
+   - The patient's history of interferon-[gamma] release assay for M. tuberculosis being positive suggests a possible underlying infectious cause, such as TINU.
+
+Based on the clinical case presentation, these three conditions are the most likely differential diagnoses due to their overlapping symptoms and findings related to the eye, systemic involvement, and potential infectious etiologies.
+
+Remember, it's crucial to consider the patient's age, medical history, and presenting symptoms to narrow down the list of potential diagnoses. Always consult the complete clinical information to make informed decisions about the patient's care.
+
+I hope this explanation helps! Let me know if you have any further questions or need clarification on anything.

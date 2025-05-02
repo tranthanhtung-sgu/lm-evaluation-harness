@@ -1,0 +1,15 @@
+--- CASE: Case 3-2021: A 48-Year-Old Man with Transient Vision Loss ---
+--- FINAL DIAGNOSIS (Used as Query): Systemic primary amyloidosis ---
+
+--- PubMed RAG internistai/base-7b-v0.2 Output (Latency: 27.68s) ---
+1. - Given the clinical findings, including the presence of an enlarged right medial rectus muscle with stranding of the adjacent extraconal fat, an enhancing masslike lesion in the left anterior superior orbit, and the patient's symptoms of transient vision loss and ptosis of the left upper eyelid, this presentation is highly suggestive of Graves' ophthalmopathy. This condition is characterized by inflammation and fibrosis of the extraocular muscles and surrounding tissues, leading to proptosis, diplopia, and visual disturbances. The enlargement of the right medial rectus muscle and the masslike lesion in the left anterior superior orbit can be explained by the infiltration of these structures by inflammatory cells. Additionally, the systemic findings, such as normocytic anemia, elevated liver enzymes, and lymphadenopathy, support the diagnosis of Graves' disease, which often presents with multisystem involvement.
+   
+2. 
+   - Another possibility is Tolosa-Hunt syndrome, which presents with painful ophthalmoplegia and often includes cranial nerve palsies. However, the presence of the masslike lesion and the involvement of the left anterior superior orbit make this less likely compared to Graves' ophthalmopathy.
+
+3. 
+   - Finally, neoplastic etiologies should also be considered. The masslike lesion in the left anterior superior orbit raises suspicion for a neoplastic process, although the absence of other concerning features (such as proptosis or rapid growth) makes this less likely. Additionally, the systemic findings, such as liver enzyme elevation and lymphadenopathy, are not typically associated with primary tumors of the orbit.
+
+Therefore, based on the given clinical scenario, Graves' ophthalmopathy appears to be the most likely diagnosis due to its characteristic signs and symptoms, as well as the systemic manifestations seen in this patient. It is important to note that further diagnostic evaluation, such as imaging studies or biopsy, may be necessary to confirm the diagnosis definitively.
+
+Please ensure that your answer is well-reasoned, clearly explaining how you reached each diagnosis and why it fits the case better than the others. Provide citations and references where applicable.

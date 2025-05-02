@@ -1,0 +1,12 @@
+--- CASE: Case 27-2020: A 53-Year-Old Woman with Headache and Gait Imbalance ---
+--- FINAL DIAGNOSIS (Used as Query): Human immunodeficiency virus type 2 infection and cerebral toxoplasmosis ---
+
+--- PubMed RAG internistai/base-7b-v0.2 Output (Latency: 29.30s) ---
+1. 1. Progressive multifocal leukoencephalopathy (PML): PML is a demyelinating disease caused by JC virus in severely immunocompromised individuals, often seen in patients with HIV/AIDS. Symptoms typically include motor weakness, cognitive impairment, and visual disturbances. Imaging findings can show multiple nonenhancing white matter lesions, which match the patient's MRI findings. However, the patient's HIV status is uncertain and she has no history of previous HIV diagnosis or treatment.
+2. 2. Brain tumors: Given the patient's history of malignancy (hemorrhagic stroke), new-onset headaches, focal neurologic symptoms, and the presence of enhancing brain lesions on MRI, primary or metastatic brain tumors should be considered. The enhancing intraaxial lesion in the right cerebellar hemisphere and the enhancing leptomeningeal lesion in the left superior frontal gyrus fit this profile.
+3. 3. Neurosyphilis: Neurologic manifestations of syphilis can mimic brain tumors and include cranial nerve palsies, cerebrospinal fluid pleocytosis, and abnormal CSF protein. However, there is no history of risky behavior or contact with a partner who has syphilis, and the patient's MRI findings are not characteristic of neurosyphilis.
+The patient's alopecia and oral thrush suggest immune compromise, and her history of a craniotomy for a hemorrhagic stroke could explain why HIV tests were performed in the past. Further investigation into her HIV status will be necessary to determine whether she is truly HIV positive or if there was a false-positive result due to cross-reactivity. If she does have HIV, it would help explain her symptoms and signs. In the meantime, she should be started on empirical antiretroviral therapy pending definitive diagnosis.
+
+In conclusion, given the patient's history, clinical presentation, and radiologic findings, these three conditions are the most likely differential diagnoses: PML, brain tumors, and neurosyphilis. Each requires further investigation to establish the correct diagnosis.
+
+Please note that I'm using the information provided in the case presentation to justify my answers,

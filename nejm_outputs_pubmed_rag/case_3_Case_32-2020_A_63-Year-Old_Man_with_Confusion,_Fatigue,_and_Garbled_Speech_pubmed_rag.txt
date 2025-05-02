@@ -1,0 +1,16 @@
+--- CASE: Case 32-2020: A 63-Year-Old Man with Confusion, Fatigue, and Garbled Speech ---
+--- FINAL DIAGNOSIS (Used as Query): Borrelia miyamotoi infection ---
+
+--- PubMed RAG internistai/base-7b-v0.2 Output (Latency: 29.88s) ---
+1. * Diagnosis: Acute Disseminated Encephalomyelitis (ADEM) 
+   * Justification: ADEM is a demyelinating disorder that often follows a viral illness or vaccination. It presents with multifocal neurologic symptoms, typically involving the brain and spinal cord. This patient has presented with subacute neurologic deficits including headaches, photophobia, sonophobia, unilateral blind spots, and fatigue, which aligns with ADEM. The CSF findings of lymphocytic pleocytosis and elevated protein level also support this diagnosis. Additionally, the MRI findings of hyperintense signals in the sulci on fluid-attenuated inversion recovery images, with associated subtle enhancement on gadolinium-enhanced T1-weighted images, further support the possibility of ADEM.
+
+2. 
+   * Diagnosis: Multiple Sclerosis (MS) 
+   * Justification: MS is a chronic inflammatory demyelinating disease of the central nervous system that typically presents in young adults. This patient's history of prior membranous nephropathy treated with immunosuppressive medications increases his risk for developing MS. Although the patient's symptoms have been acute in nature, they may represent an initial attack of MS. Further, the MRI findings of hyperintense signals in the sulci on fluid-attenuated inversion recovery images, with associated subtle enhancement on gadolinium-enhanced T1-weighted images, can be seen in both ADEM and MS.
+
+3. 
+   * Diagnosis: Neurosyphilis 
+   * Justification: Neurosyphilis is caused by infection with the spirochete Treponema pallidum. It can occur decades after the initial syphilis infection. This patient's history of travel to Florida and rural Canada where he might have acquired the infection, along with his presentation of headache, fatigue, somnolence, and visual disturbances, raise concern for neurosyphilis. However, the CSF test for the VDRL test was nonreactive, making it less likely.
+
+In conclusion, these three diagnoses are all possible given the patient's clinical presentation and history. Further

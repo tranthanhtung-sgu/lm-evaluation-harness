@@ -1,0 +1,120 @@
+casename,final_diagnosis,internistai_7b_pubmed_rag_output_raw,internistai_7b_pubmed_rag_latency_s
+Case 16-2020: A 47-Year-Old Woman with Recurrent Melanoma and Pulmonary Nodules,Pulmonary histoplasmosis,"1. 2. 
+3. 
+
+Reasoning:
+Based on the given clinical scenario, it seems that the patient has a history of malignant melanoma and is currently experiencing new abnormal findings on chest imaging. To determine the differential diagnoses, we need to consider the possible causes of these new findings.
+
+1. Pulmonary Metastasis: Given the patient's history of malignant melanoma, one potential differential diagnosis is pulmonary metastasis. The presence of new pulmonary nodules on imaging, along with the known risk of melanoma metastasizing to the lungs, makes this a reasonable possibility.
+
+2. Infection: The patient's recent travel to a region with a higher risk of certain infectious diseases raises concern for infection. However, there are no specific findings or symptoms mentioned in the scenario that strongly suggest an infection. Additionally, the absence of fever and other typical signs of infection make it less likely.
+
+3. Radiation Effects: Since the patient previously received radiation therapy to the right axilla, it is important to consider the possibility of radiation effects causing the new lung findings. While radiation-induced changes can occur, they typically manifest as fibrosis rather than new nodules. Therefore, this is less likely to be the primary cause in this case.
+
+Upon further analysis, we can conclude that the most likely differential diagnosis is pulmonary metastasis from the patient's malignant melanoma. However, additional diagnostic workup, such as biopsy or imaging with contrast, may be needed to confirm the diagnosis. The other possibilities, infection and radiation effects, are less likely based on the provided information.
+
+It is crucial to remember that this is only a preliminary interpretation and a definitive diagnosis requires more comprehensive assessment and evaluation. Always consult with healthcare professionals and consider individual patient factors when making decisions about diagnosis and treatment.",23.623002290725708
+Case 27-2020: A 53-Year-Old Woman with Headache and Gait Imbalance,Human immunodeficiency virus type 2 infection and cerebral toxoplasmosis,"1. 1. Progressive multifocal leukoencephalopathy (PML): PML is a demyelinating disease caused by JC virus in severely immunocompromised individuals, often seen in patients with HIV/AIDS. Symptoms typically include motor weakness, cognitive impairment, and visual disturbances. Imaging findings can show multiple nonenhancing white matter lesions, which match the patient's MRI findings. However, the patient's HIV status is uncertain and she has no history of previous HIV diagnosis or treatment.
+2. 2. Brain tumors: Given the patient's history of malignancy (hemorrhagic stroke), new-onset headaches, focal neurologic symptoms, and the presence of enhancing brain lesions on MRI, primary or metastatic brain tumors should be considered. The enhancing intraaxial lesion in the right cerebellar hemisphere and the enhancing leptomeningeal lesion in the left superior frontal gyrus fit this profile.
+3. 3. Neurosyphilis: Neurologic manifestations of syphilis can mimic brain tumors and include cranial nerve palsies, cerebrospinal fluid pleocytosis, and abnormal CSF protein. However, there is no history of risky behavior or contact with a partner who has syphilis, and the patient's MRI findings are not characteristic of neurosyphilis.
+The patient's alopecia and oral thrush suggest immune compromise, and her history of a craniotomy for a hemorrhagic stroke could explain why HIV tests were performed in the past. Further investigation into her HIV status will be necessary to determine whether she is truly HIV positive or if there was a false-positive result due to cross-reactivity. If she does have HIV, it would help explain her symptoms and signs. In the meantime, she should be started on empirical antiretroviral therapy pending definitive diagnosis.
+
+In conclusion, given the patient's history, clinical presentation, and radiologic findings, these three conditions are the most likely differential diagnoses: PML, brain tumors, and neurosyphilis. Each requires further investigation to establish the correct diagnosis.
+
+Please note that I'm using the information provided in the case presentation to justify my answers,",29.3033504486084
+"Case 32-2020: A 63-Year-Old Man with Confusion, Fatigue, and Garbled Speech",Borrelia miyamotoi infection,"1. * Diagnosis: Acute Disseminated Encephalomyelitis (ADEM) 
+   * Justification: ADEM is a demyelinating disorder that often follows a viral illness or vaccination. It presents with multifocal neurologic symptoms, typically involving the brain and spinal cord. This patient has presented with subacute neurologic deficits including headaches, photophobia, sonophobia, unilateral blind spots, and fatigue, which aligns with ADEM. The CSF findings of lymphocytic pleocytosis and elevated protein level also support this diagnosis. Additionally, the MRI findings of hyperintense signals in the sulci on fluid-attenuated inversion recovery images, with associated subtle enhancement on gadolinium-enhanced T1-weighted images, further support the possibility of ADEM.
+
+2. 
+   * Diagnosis: Multiple Sclerosis (MS) 
+   * Justification: MS is a chronic inflammatory demyelinating disease of the central nervous system that typically presents in young adults. This patient's history of prior membranous nephropathy treated with immunosuppressive medications increases his risk for developing MS. Although the patient's symptoms have been acute in nature, they may represent an initial attack of MS. Further, the MRI findings of hyperintense signals in the sulci on fluid-attenuated inversion recovery images, with associated subtle enhancement on gadolinium-enhanced T1-weighted images, can be seen in both ADEM and MS.
+
+3. 
+   * Diagnosis: Neurosyphilis 
+   * Justification: Neurosyphilis is caused by infection with the spirochete Treponema pallidum. It can occur decades after the initial syphilis infection. This patient's history of travel to Florida and rural Canada where he might have acquired the infection, along with his presentation of headache, fatigue, somnolence, and visual disturbances, raise concern for neurosyphilis. However, the CSF test for the VDRL test was nonreactive, making it less likely.
+
+In conclusion, these three diagnoses are all possible given the patient's clinical presentation and history. Further",29.878363370895386
+Case 39-2020: A 29-Month-Old Boy with Seizure and Hypocalcemia,Vitamin D deficiency,"1. 1,25-Dihydroxyvitamin D deficiency: This condition can lead to decreased absorption of calcium and phosphorus, resulting in hypocalcemic tetany. The patient's history of atopic dermatitis and multiple food allergies may have contributed to vitamin D deficiency due to limited sun exposure and restricted diet. Additionally, the patient's seizure and hypocalcemia suggest a neurological manifestation.
+
+2. Renal osteodystrophy: This condition occurs due to impaired renal function and results in decreased production of active vitamin D. The patient's history of atopic dermatitis and multiple food allergies may have led to poor nutrient intake and limited sunlight exposure, contributing to vitamin D deficiency. Furthermore, the presence of hypocalcemia and seizures suggests a systemic issue affecting bone mineralization.
+
+3. Rickets: This condition, characterized by defective bone mineralization, is often caused by vitamin D deficiency. The patient's history of atopic dermatitis and multiple food allergies may have resulted in limited sunlight exposure and poor nutrient intake, contributing to vitamin D deficiency. Additionally, the presence of hypocalcemia and seizures indicates a systemic issue affecting bone mineralization.
+
+In summary, given the patient's presentation of hypocalcemia, seizures, and potential underlying conditions like atopic dermatitis and food allergies, the top three differential diagnoses would be 1. 1,25-dihydroxyvitamin D deficiency, 2. Renal osteodystrophy, and 3. Rickets. These conditions all involve a disturbance in calcium homeostasis, leading to symptoms such as hypocalcemia and seizures. It is crucial to consider these possibilities based on the patient's clinical history and laboratory findings. Further diagnostic investigations, such as vitamin D levels and renal function tests, should be conducted to confirm the suspected diagnoses.
+
+Remember, the reasoning behind these diagnoses comes primarily from the case presentation, with some additional support from the provided context. However, it is important to focus mainly on the clinical scenario and use the context as supplementary information where applicable. 
+
+I hope this explanation has provided you with a better understanding of how to approach",27.54091215133667
+Case 3-2021: A 48-Year-Old Man with Transient Vision Loss,Systemic primary amyloidosis,"1. - Given the clinical findings, including the presence of an enlarged right medial rectus muscle with stranding of the adjacent extraconal fat, an enhancing masslike lesion in the left anterior superior orbit, and the patient's symptoms of transient vision loss and ptosis of the left upper eyelid, this presentation is highly suggestive of Graves' ophthalmopathy. This condition is characterized by inflammation and fibrosis of the extraocular muscles and surrounding tissues, leading to proptosis, diplopia, and visual disturbances. The enlargement of the right medial rectus muscle and the masslike lesion in the left anterior superior orbit can be explained by the infiltration of these structures by inflammatory cells. Additionally, the systemic findings, such as normocytic anemia, elevated liver enzymes, and lymphadenopathy, support the diagnosis of Graves' disease, which often presents with multisystem involvement.
+   
+2. 
+   - Another possibility is Tolosa-Hunt syndrome, which presents with painful ophthalmoplegia and often includes cranial nerve palsies. However, the presence of the masslike lesion and the involvement of the left anterior superior orbit make this less likely compared to Graves' ophthalmopathy.
+
+3. 
+   - Finally, neoplastic etiologies should also be considered. The masslike lesion in the left anterior superior orbit raises suspicion for a neoplastic process, although the absence of other concerning features (such as proptosis or rapid growth) makes this less likely. Additionally, the systemic findings, such as liver enzyme elevation and lymphadenopathy, are not typically associated with primary tumors of the orbit.
+
+Therefore, based on the given clinical scenario, Graves' ophthalmopathy appears to be the most likely diagnosis due to its characteristic signs and symptoms, as well as the systemic manifestations seen in this patient. It is important to note that further diagnostic evaluation, such as imaging studies or biopsy, may be necessary to confirm the diagnosis definitively.
+
+Please ensure that your answer is well-reasoned, clearly explaining how you reached each diagnosis and why it fits the case better than the others. Provide citations and references where applicable.",27.675585508346558
+Case 36-2021: A 22-Year-Old Man with Pain and Erythema of the Left Hand,Erysipelothrix rhusiopathiae infection,"1. - This is consistent with cellulitis, which is typically characterized by erythema, warmth, and tenderness. However, in this case, the presence of bullae and the rapid progression of symptoms suggests a more aggressive infection.
+
+2. 
+   - Necrotizing fasciitis, an infection that causes death of subcutaneous tissue and fascia, is a possibility given the severe symptoms and rapid progression of the infection. Key features include fever, severe pain disproportionate to physical findings, and rapid spread of erythema.
+
+3. 
+   - A septic arthritis, such as staphylococcus aureus, can cause similar symptoms, particularly joint pain and inflammation. However, the presence of bullae and the rapid spread of symptoms make this less likely than the above options.
+
+In conclusion, based on the clinical presentation and the key evidence mentioned, the most likely differential diagnoses are cellulitis, necrotizing fasciitis, and septic arthritis. The rapid progression of symptoms, presence of bullae, and involvement of multiple areas of the body suggest a more aggressive infection like necrotizing fasciitis over cellulitis or septic arthritis. Further testing, such as imaging or cultures, would be necessary to confirm the diagnosis. It's also crucial to consider the patient's history and risk factors, as well as any potential exposure to infectious agents.
+
+Remember, the differential diagnoses provided here are based solely on the information provided in the question stem and the answer choices. In real-world practice, the final diagnosis would depend on a thorough evaluation of all available information and may involve additional diagnostic tests or specialist consultations. Always consider the broader clinical context and use your best judgment when making decisions about patient care.",22.417489051818848
+"Case 3-2022: A 14-Year-Old Boy with Fever, Joint Pain, and Abdominal Cramping",Inflammatory bowel disease (Crohn’s disease),"1. Inflammatory Bowel Disease (IBD): Given the patient's persistent diarrhea, abdominal cramping, and elevated lipase levels, IBD is a likely differential diagnosis. IBD often presents with gastrointestinal symptoms, such as diarrhea and abdominal pain. However, it can also manifest systemically, leading to joint pain and fever. Additionally, the patient's medical history of being previously well, recent travel, and lack of exposure to potential infectious agents make IBD a more plausible diagnosis than an infectious cause.
+
+2. 
+Systemic Juvenile Idiopathic Arthritis (sJIA): This condition typically presents in children between the ages of 2 and 16 years old and can cause persistent fever, evanescent rash, and joint pain. sJIA can also present with abdominal pain and diarrhea. However, the presence of elevated lipase levels and the absence of a rash make this diagnosis less likely.
+
+3. 
+Kawasaki Disease: Kawasaki disease is an acute vasculitis that commonly affects young children and is characterized by fever lasting for at least five days, along with four or more of the following symptoms: bilateral nonexudative conjunctival injection, oral mucosal changes (eg, strawberry tongue, cracked lips), changes in the extremities (eg, erythema, edema, desquamation, lymphadenopathy), polymorphous rash, and cervical lymphadenopathy. Although the patient has some overlapping symptoms, the absence of conjunctival injection, rash, and lymphadenopathy makes Kawasaki disease less likely.
+
+It is important to note that without further testing and examination, definitive diagnoses cannot be made based solely on the provided case presentation. These differential diagnoses are suggestions based on the presented information and should be considered alongside additional findings and investigations. Always remember to consider the patient's age, gender, clinical presentation, and risk factors when determining the most appropriate diagnostic workup.",25.959993839263916
+Case 15-2022: A 57-Year-Old Man with Persistent Cough and Pulmonary Opacities,Aspiration pneumonia,"1. 2. 
+3. 
+
+Reasoning:The key details provided in the case presentation point towards a diagnosis of a chronic pulmonary infection, particularly one involving fungi such as Aspergillus species. The patient's long-standing history of immunosuppressive therapies (e.g., prednisone, methotrexate), use of inhalational steroids, and a history of gastroesophageal reflux disease, all contribute to a state of chronic immunocompromised state. This puts him at an increased risk of opportunistic infections. Furthermore, the patient's history of polyarteritis nodosa, a condition often treated with high doses of corticosteroids, further supports this notion.
+
+Additionally, his persistent cough, productive sputum, recurrent infections, and progressive chest X-ray findings are suggestive of chronic bronchiectasis, possibly secondary to a chronic infection. His repeated BAL fluid cultures growing C. albicans and Enterococcus species, despite no clear evidence of invasive fungal infection (e.g., galactomannan positivity), support the likelihood of an underlying chronic fungal infection, most likely Aspergillus.
+
+Therefore, considering the above information, the most likely differential diagnoses would be:
+
+1. Aspergilloma/Chronic Fungal Bronchitis - Given the patient's immunocompromised state and the chronicity of his symptoms, an Aspergilloma or Chronic Fungal Bronchitis should be considered. These conditions typically present with symptoms of a chronic wet cough, recurrent pulmonary infections, and hemoptysis. Chest X-ray findings may show pulmonary nodules or cavitary lesions.
+
+2. Bronchiectasis - This could be a consequence of recurrent infections over many years, resulting in permanent dilation of bronchi. Patients often present with productive cough, hemoptysis, and recurrent pneumonia. The patient's chronic cough, recurrent infections, and imaging findings are consistent with this diagnosis.
+
+3. Chronic Bacterial Pneumonia - While the patient's initial sputum cultures did grow normal respiratory flora, it's important to note that the BAL cultures continue to grow bacteria even after starting antibiotic",30.02767014503479
+Case 21-2022: A 17-Year-Old Girl with Fever and Cough,Granulomatosis with polyangiitis,"1. 2.
+3.
+
+Reasoning:
+The clinical scenario provided presents a young woman with persistent fever, cough, and signs of hemoptysis. In addition, she has laboratory findings indicative of anemia and renal impairment, and imaging showing bilateral lower lobe ground-glass opacities. This combination of features suggests a systemic vasculitic process.
+
+1. Eosinophilic Granulomatosis with Polyangiitis (EGPA, Churg-Strauss Syndrome): EGPA is characterized by asthma, eosinophilia, and systemic vasculitis involving small vessels. It typically presents with sinusitis, asthma, and peripheral neuropathy. Systemic vasculitis may affect any organ system, including the kidneys (resulting in hematuria and proteinuria), lungs (resulting in hemoptysis), and skin (resulting in purpura or ulcers). Elevated ESR and CRP are often seen, as is renal insufficiency due to glomerulonephritis. Imaging may show infiltrates in the lungs and sinuses. Therefore, given the patient's history of asthma, the presence of hemoptysis, and the imaging findings, EGPA would be one of the first considerations.
+
+2. Microscopic Polyangiitis (MPA): MPA is a systemic necrotizing vasculitis affecting small vessels, and it is similar to Goodpasture syndrome. It can involve the kidneys, lungs, skin, nervous system, gastrointestinal tract, and heart. Symptoms include cough, hemoptysis, renal disease (e.g., hematuria, proteinuria), and constitutional symptoms like malaise and weight loss. Lung findings can be similar to those seen in EGPA, with diffuse or focal infiltrates, consolidation, or nodules on imaging. While MPA can cause ANCA positivity, it does not have a strong association with eosinophilia.
+
+3. Granulomatosis with Polyangiitis (Wegener's Granulomatosis): GPA is a systemic necrotizing vasculitis that affects the upper and lower respiratory tracts and the",28.551414251327515
+Case 33-2022: An 11-Year-Old Girl with Redness of the Eyes,Sarcoidosis,"1. 1. Systemic Lupus Erythematosus (SLE):
+   - Given the patient's persistent eye redness, keratic precipitates, posterior synechiae, and iris nodules, along with systemic findings like lymphadenopathy, these are characteristic of SLE.
+   - Furthermore, the presence of optic disk swelling and peripheral retinal hemorrhages are consistent with neuroretinitis, a common manifestation of SLE.
+
+2. 2. Juvenile Idiopathic Arthritis (JIA):
+   - JIA can cause ocular inflammation, such as anterior uveitis, leading to symptoms like eye redness, photophobia, and blurred vision.
+   - The presence of systemic symptoms like joint pain and lymphadenopathy further support this possibility.
+
+3. 3. Tubulointerstitial Nephritis and Uveitis Syndrome (TINU):
+   - This syndrome presents with a combination of tubulointerstitial nephritis and bilateral anterior uveitis.
+   - The patient's history of interferon-[gamma] release assay for M. tuberculosis being positive suggests a possible underlying infectious cause, such as TINU.
+
+Based on the clinical case presentation, these three conditions are the most likely differential diagnoses due to their overlapping symptoms and findings related to the eye, systemic involvement, and potential infectious etiologies.
+
+Remember, it's crucial to consider the patient's age, medical history, and presenting symptoms to narrow down the list of potential diagnoses. Always consult the complete clinical information to make informed decisions about the patient's care.
+
+I hope this explanation helps! Let me know if you have any further questions or need clarification on anything.",23.437459468841553
